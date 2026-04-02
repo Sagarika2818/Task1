@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.image{
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+    float: left;
+}
+.taskbar{
+    font-size:20px;
+    display: flex;
+    gap:20px;
+    color:rgb(39, 145, 221);
+    justify-content:flex-end;
+}
+.home{
+    font-size:20px;
+    display: flex;
+    gap:20px;
+    color:rgb(70, 165, 233);
+    justify-content:flex-end;
+}
+.faq{
+    font-size:20px;
+    display: flex;
+    gap:20px;
+    color:rgb(150, 207, 249);
+    justify-content:flex-end;
+}
+.h1{
+    display: flex;
+    color: blueviolet;
+    text-align: center;
+}
